@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.footer .container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 6rem;
+}
+
+.footer .container p {
+  font-size: 25px;
+  transition: 0.5s ease;
+}
+
+.footer .container #home {
+  transition: 0.5s ease;
+}
+
+#home:hover {
+  color: #fb8500;
+}

@@ -1,0 +1,12 @@
+.btn-purple {
+  color: black;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  transition: 3s ease;
+}
+
+.btn-purple:hover {
+  font-size: 0px;
+  background-color: black;
+}
